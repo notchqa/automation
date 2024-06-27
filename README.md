@@ -6,7 +6,4 @@ Important: Sometimes InteliJ or VS code takes automatically latest version of ty
 If that happens set up version to 4 or delete typeRoots.
 
 
-running tests:
-
-
 <!-- end::body[] -->
