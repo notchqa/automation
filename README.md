@@ -1,18 +1,4 @@
-# Cypress (AUTOMATION TESTS) 
 
-# Table of Contents
-
-1. [Structure](#Structure)
-
-
-### Structure
-
-
-```
-## Install Dependencies
-Install dependencies needed for the project
-
-```
 
 ### JavaDvript:
 
