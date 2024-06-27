@@ -8,7 +8,5 @@ If that happens set up version to 4 or delete typeRoots.
 
 running tests:
 
-npm cypress open
-
 
 <!-- end::body[] -->
